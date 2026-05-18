@@ -1,0 +1,42 @@
+{
+  "_instructions": "Fill only answers you are comfortable storing locally. The agent must not infer blank values. Null means stop and ask.",
+  "work_authorization": {
+    "authorized_to_work_in_target_country": null,
+    "requires_sponsorship_now_or_future": null,
+    "eligible_to_work_for_any_employer": null,
+    "notes": ""
+  },
+  "legal_confirmations": {
+    "age_18_or_older": null,
+    "willing_to_complete_background_check": null,
+    "willing_to_complete_reference_check": null,
+    "willing_to_sign_standard_employment_agreements": null,
+    "notes": ""
+  },
+  "eeo_optional_self_identification": {
+    "use_opt_out_when_available": true,
+    "gender": null,
+    "race_ethnicity": null,
+    "veteran_status": null,
+    "disability_status": null,
+    "preferred_pronouns": null,
+    "notes": "Leave null unless you want the agent to use a canonical answer. Prefer opt-out values when allowed."
+  },
+  "criminal_history": {
+    "canonical_answer": null,
+    "notes": ""
+  },
+  "salary_and_availability": {
+    "salary_expectation": null,
+    "earliest_start_date": null,
+    "notice_period": null,
+    "relocation_willingness": null,
+    "travel_willingness": null
+  },
+  "consents": {
+    "consent_to_receive_recruiting_sms": null,
+    "consent_to_data_processing": null,
+    "consent_to_terms_or_privacy_policy": null,
+    "notes": "The agent must stop before accepting legal terms unless this file contains an explicit canonical answer or the user approves in the moment."
+  }
+}

@@ -1,0 +1,14 @@
+.DS_Store
+profiles/profile.json
+profiles/sensitive-answers.json
+resumes/*
+drafts/*
+exports/*
+logs/*
+tmp/*
+!resumes/.gitkeep
+!drafts/.gitkeep
+!exports/.gitkeep
+!logs/.gitkeep
+!tmp/.gitkeep
+

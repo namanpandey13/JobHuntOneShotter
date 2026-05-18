@@ -1,0 +1,83 @@
+{
+  "candidate": {
+    "full_name": "",
+    "preferred_name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "linkedin_url": "",
+    "github_url": "",
+    "portfolio_url": "",
+    "personal_site_url": ""
+  },
+  "resume_sources": {
+    "primary_resume_path": "",
+    "resume_pdf_path": "",
+    "resume_docx_path": "",
+    "notes_path": ""
+  },
+  "target_search": {
+    "target_titles": [],
+    "target_levels": [],
+    "target_companies": [],
+    "target_industries": [],
+    "excluded_companies": [],
+    "excluded_titles": [],
+    "locations": [],
+    "remote_preferences": [],
+    "minimum_compensation": "",
+    "dealbreakers": []
+  },
+  "positioning": {
+    "one_line_summary": "",
+    "preferred_pitch": "",
+    "top_strengths": [],
+    "domains": [],
+    "tools_and_technologies": [],
+    "proof_points": []
+  },
+  "experience_facts": [
+    {
+      "employer": "",
+      "title": "",
+      "start_date": "",
+      "end_date": "",
+      "location": "",
+      "facts": [],
+      "metrics": [],
+      "technologies": []
+    }
+  ],
+  "education_facts": [
+    {
+      "school": "",
+      "degree": "",
+      "field": "",
+      "start_date": "",
+      "end_date": "",
+      "notes": []
+    }
+  ],
+  "project_facts": [
+    {
+      "name": "",
+      "url": "",
+      "description": "",
+      "facts": [],
+      "technologies": []
+    }
+  ],
+  "outreach_preferences": {
+    "tone": "warm, concise, specific, and direct",
+    "signature": "",
+    "default_subject_style": "Role-specific and plain-spoken",
+    "do_not_mention": [],
+    "preferred_call_to_action": "Would you be open to pointing me to the right person or considering my resume for the role?"
+  },
+  "human_review_preferences": {
+    "always_review_before_gmail_draft": true,
+    "always_review_before_browser_application": true,
+    "always_review_before_submit": true,
+    "allow_local_draft_files_when_gmail_unavailable": true
+  }
+}

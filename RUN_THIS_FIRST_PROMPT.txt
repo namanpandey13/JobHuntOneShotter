@@ -1,0 +1,22 @@
+Read START_HERE.md first and run the setup wizard exactly as written.
+
+Then read:
+- AGENTS.md
+- CLAUDE.md if available in this environment
+- .agents/skills/job-search-outreach-agent/SKILL.md
+
+Operate in DRAFT_ONLY mode unless I explicitly authorize another mode.
+
+Before doing any job-search work, inspect the workspace and give me a readiness report:
+- required files present or missing
+- profile fields complete or missing
+- do-not-claim file status
+- sensitive answers file status
+- tracker files present and writable
+- resume source file status
+- Gmail tooling status
+- browser automation status
+- whether a safe dry run can proceed
+- what you need from me before a real outreach run
+
+Do not search for roles, open job portals, create Gmail drafts, send email, submit applications, or answer sensitive/legal questions until you have shown the readiness report and I approve the next step.
